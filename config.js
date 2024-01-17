@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2348029492501', 'mystic Goddess', true],
-  ['2348102925093', 'Bamireid', true], 
+  ['2348102925093', '*𝕭𝖆𝖒𝖎𝖗𝖊𝖎𝖉*', true],
+  ['2348152119668', 'Bamireid', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2348029492501','2348102925093'] 
-global.prems = ['2348029492501','2348102925093']
-global.allowed = ['2348029492501', '2348102925093']
+global.mods = ['2348102925093','2348152119668'] 
+global.prems = ['2348102925093','2348152119668']
+global.allowed = ['2348102925093', '2348152119668']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '❤️Mystic Goddess 2.0❤️'
+global.botname = '❤️*𝕭𝖆𝖒𝖎𝖗𝖊𝖎𝖉𝖘 𝖜𝖎𝖋𝖊*❤️'
 global.premium = 'true'
-global.packname = '❤️ Mystic❤️'  
-global.author = '۝⃟̥̩̩̩̥̩̥͚̮Goddess❤️' 
+global.packname = '❤️ *Chiomzzy* ❤️'  
+global.author = '۝⃟̥̩̩̩̥̩̥͚̮𝕭𝖆𝖒𝖎𝖗𝖊𝖎𝖉❤️' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
@@ -72,7 +72,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' 
+global.maxwarn = '5' 
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
