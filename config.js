@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2348102925093', '*𝕭𝖆𝖒𝖎𝖗𝖊𝖎𝖉*', true],
-  ['2348152119668', 'Bamireid', true], 
-  ['2349017072492', 'Pickle', true'] 
+  ['2349017072492', 'Pickle', true],
+  ['2348102925093', '𝕭𝖆𝖒𝖎𝖗𝖊𝖎𝖉', true], 
+  [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
